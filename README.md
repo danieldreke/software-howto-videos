@@ -4,4 +4,7 @@
 
 ### Learnings
 - To be able to read text in console move console window some pixels down
-- Use relaxing music without lyrics
+- Increase console font size
+- Use relaxing music without lyrics, no music at all or add later
+- Wait 2 seconds before starting to talk
+- Wait 2 seconds before ending the video
