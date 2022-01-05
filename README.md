@@ -1,6 +1,6 @@
 ## Software Howtos
 
-- [How to overwrite last git commit message with option --amend (0:26 min)](https://youtu.be/hnfCWjOfkj4)
+- [How to change last commit message in git (2:00 min)](https://www.youtube.com/watch?v=ipJrG9lVaGk)
 
 ### Learnings
 - To be able to read text in console move console window some pixels down
